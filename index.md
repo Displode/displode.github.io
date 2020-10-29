@@ -1,6 +1,6 @@
 # Displode
 
-[About](pages.site/about)
+[About](/about/about.md)
 
 ## Welcome to GitHub Pages
 
